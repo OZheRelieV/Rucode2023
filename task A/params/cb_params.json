@@ -1,0 +1,11 @@
+{
+    "learning_rate": 0.0528980351340532,
+    "depth": 9,
+    "subsample": 0.551594034976896,
+    "colsample_bylevel": 0.8850522337727407,
+    "min_data_in_leaf": 1,
+    "l2_leaf_reg": 0.08640360417488033,
+    "random_strength": 0.7384089227664642,
+    "border_count": 222,
+    "grow_policy": "Depthwise"
+}

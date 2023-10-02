@@ -1,0 +1,14 @@
+{
+    "max_depth": 8,
+    "learning_rate": 0.10313141111769379,
+    "n_estimators": 812,
+    "min_child_weight": 5,
+    "gamma": 0.011317523973762036,
+    "subsample": 0.8394922128769058,
+    "colsample_bytree": 0.7968044965438489,
+    "reg_alpha": 0.5652719437700845,
+    "reg_lambda": 0.17657257431955833,
+    "scale_pos_weight": 1.7063203107667038,
+    "booster": "gbtree",
+    "grow_policy": "depthwise"
+}

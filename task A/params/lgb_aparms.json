@@ -1,0 +1,11 @@
+{
+    "reg_alpha": 0.0016989292739716326,
+    "reg_lambda": 0.12308815195780395,
+    "colsample_bytree": 0.7,
+    "subsample": 1.0,
+    "learning_rate": 0.017,
+    "max_depth": 100,
+    "num_leaves": 998,
+    "min_child_samples": 1,
+    "min_data_per_groups": 72
+}
